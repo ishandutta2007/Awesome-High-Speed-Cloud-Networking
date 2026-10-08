@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-High-Speed-Cloud-Networking"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-High-Speed-Cloud-Networking?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-High-Speed-Cloud-Networking"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-High-Speed-Cloud-Networking?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-High-Speed-Cloud-Networking/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-High-Speed-Cloud-Networking?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-High-Speed-Cloud-Networking/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-High-Speed-Cloud-Networking?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -70,7 +70,7 @@ Welcome to the definitive, curated directory of **high-speed cloud networking pl
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Cilium](https://github.com/cilium/cilium)** [![Stars](https://img.shields.io/github/stars/cilium/cilium?style=social&color=white)](https://github.com/cilium/cilium/stargazers)  
   **eBPF-based high-speed networking, observability, and security**, Apache-2.0 licensed. Uses eBPF for kernel-level line-rate packet routing, load balancing, and multi-cluster cloud mesh networking without iptables overhead. ⚡
@@ -150,7 +150,7 @@ Contributions are welcome! Follow these steps to submit new high-speed networkin
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and concise description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and concise description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
@@ -182,3 +182,12 @@ If you find this high-speed cloud networking repository useful, please consider 
 <p align="center">
   <b>Made with ❤️ for network engineers, cloud architects, and open-source high-speed networking advocates.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-High-Speed-Cloud-Networking&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-High-Speed-Cloud-Networking_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-High-Speed-Cloud-Networking_growth.svg">
+  </picture>
+</a>
